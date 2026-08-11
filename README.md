@@ -32,7 +32,7 @@ Written in **Placeholder**
    [Gitbash (PC)](https://git-scm.com/download/win 'Gitbash (PC)') `to save storage space`
 
    ```sh
-   git clone https://github.com/iammelvink/NDTA63.git --depth=1
+   git clone https://github.com/Di-exGeneral/NDTA63-Assignment
    ```
 
 ## Author(s)
