@@ -7,9 +7,23 @@
 
 ## Overview
 
-This is the codebase produced for the **NDTA63 Data Analysis and Visualization** course
+The project analyses South Africa’s economic structure using two World Bank
+datasets: Exports of Goods and Services, and Service, Value Added. The work
+covers data cleaning, numerical analysis, visualisation, and database
+integration, using Python
 
-Written in **Placeholder**
+The goal is to understand how South Africa’s trade performance compares to
+the size of its services sector over time, and whether one has grown at the
+expense of or alongside the other. This matters because it points to what’s
+actually driving the country’s economic output, external trades or domestic
+service industries, which has implications for where investment or policy
+focus might do the most good
+
+The final result is a full analysis: cleaned data, visualisations, and queryable
+database, showing how South Africa’s trade performance and services sector
+has moved over time
+
+
 
 1. Methodologies/Project Management:
 
@@ -22,7 +36,7 @@ Written in **Placeholder**
 
 3. Programming Languages/Frameworks:
 
-   - Placeholder
+   - Python (Jupyter Notebook)
 
 ## Instructions
 
@@ -37,7 +51,12 @@ Written in **Placeholder**
 
 ## Author(s)
 
-"Group members and lecturer"
+**Group members**
+1. Matshidiso Mohatla — 202338641
+2. Tlotliso Ledwaba — 202428830
+3. Thabo Machume — 202204405
+4. Chantele Mucuio — 202331627
+5. Mercy Mothata — 202419335
 
 [Melvin Kisten](https://github.com/iammelvink 'Melvin Kisten\'s GitHub page')
 
